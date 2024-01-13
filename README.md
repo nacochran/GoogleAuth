@@ -13,9 +13,8 @@ Then navigate to the credentials page and access your OAuth clientID and OAuth s
 ### 3. Set Environment Variables
 Create a `.env file` in the root of your project and add the following information:
 <pre>
-```CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
+CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
 CLIENT_SECRET=YOUR_GOOGLE_CLIENT_SECRET
-```
 </pre>
 
 ### 4. Run application
