@@ -7,7 +7,7 @@ Template for using Google Authentication, using JavaScript, Node, Express, and P
 Use `npm install` to install all required node packages in package.json.
 
 ### 2. Configure Google Credentials
-Go to [Google Cloud Console](https://console.cloud.google.com/) and setup either create a new project or selecting an existing one. 
+Go to [Google Cloud Console](https://console.cloud.google.com/) and either create a new project or select an existing one. 
 Then navigate to the credentials page and access your OAuth clientID and OAuth secret.
 
 ### 3. Set Environment Variables
