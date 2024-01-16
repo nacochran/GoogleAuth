@@ -1,5 +1,5 @@
 # GoogleAuth
-Template for using Google Authentication, using JavaScript, Node, Express, and Passport.js.
+Template for using Google Authentication, using JavaScript, Node, Express, Passport, and MongoDB.
 
 ## Setting Up App
 
